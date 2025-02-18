@@ -151,6 +151,5 @@ def classify_tweet(tweet):
 classify_tweet("I love using this product!")
 ```
 
-## License
-This project is open-source and available under the MIT License.
+
 
